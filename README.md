@@ -1,2 +1,2 @@
-# angryBirdsStage2.5
+# angryBirdsStage2.6
 Angry Birds stage 2.5 with Class Inheritance and Images
